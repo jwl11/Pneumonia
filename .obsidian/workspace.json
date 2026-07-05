@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Hardware/硬件介绍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "硬件介绍"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "f1645a2303d9f681",
   "lastOpenFiles": [
+    "README.md",
+    "Hardware/硬件介绍.md",
+    "Hardware/RenesasCup(2).eprj2",
     "Docs/版本迭代.md",
     "Firmware/ra8p1",
     "Firmware/esp32s3",
@@ -204,14 +207,12 @@
     "Docs/FAQ （故障排查）.md",
     "Datasheet/k230/Pasted image 20260704225233.png",
     "Datasheet/k230/引脚定义图.md",
-    "README.md",
     "Firmware/k230/yolov12.py",
     "Firmware/k230",
     "Datasheet/k230",
     "Datasheet",
     "欢迎.md",
     "Demo",
-    "Images",
-    "Firmware"
+    "Images"
   ]
 }
