@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Datasheet/k230/引脚定义图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "引脚定义图"
             }
           }
         ]
@@ -194,10 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1645a2303d9f681",
+  "active": "7bbde448cf0c4ce9",
   "lastOpenFiles": [
-    "Datasheet/k230/引脚定义图.md",
+    "Firmware/k230/yolov12.py",
+    "Firmware/k230",
     "Datasheet/k230/Pasted image 20260704225233.png",
+    "Datasheet/k230/引脚定义图.md",
     "README.md",
     "Datasheet/k230",
     "Datasheet",
