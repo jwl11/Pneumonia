@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datasheet/k230/引脚定义图.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "引脚定义图"
+              "title": "README"
             }
           }
         ]
@@ -194,20 +194,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bbde448cf0c4ce9",
+  "active": "f1645a2303d9f681",
   "lastOpenFiles": [
-    "Firmware/k230/yolov12.py",
-    "Firmware/k230",
+    "Docs/版本迭代.md",
+    "Firmware/ra8p1",
+    "Firmware/esp32s3",
+    "Firmware/stm32f103c8t6",
+    "Docs/引脚说明.md",
+    "Docs/FAQ （故障排查）.md",
     "Datasheet/k230/Pasted image 20260704225233.png",
     "Datasheet/k230/引脚定义图.md",
     "README.md",
+    "Firmware/k230/yolov12.py",
+    "Firmware/k230",
     "Datasheet/k230",
     "Datasheet",
     "欢迎.md",
     "Demo",
     "Images",
-    "Firmware",
-    "Hardware",
-    "Docs"
+    "Firmware"
   ]
 }
